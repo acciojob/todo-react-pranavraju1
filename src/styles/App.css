@@ -1,1 +1,10 @@
-
+ul{
+  list-style: none;
+}
+.todoItem{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+  
+}
